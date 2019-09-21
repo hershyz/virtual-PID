@@ -1,0 +1,7 @@
+C:\Users\Hrishikesh\Desktop\Projects\virtualized-PID\virtualized-PID\bin\Debug\virtualized-PID.exe.config
+C:\Users\Hrishikesh\Desktop\Projects\virtualized-PID\virtualized-PID\bin\Debug\virtualized-PID.exe
+C:\Users\Hrishikesh\Desktop\Projects\virtualized-PID\virtualized-PID\bin\Debug\virtualized-PID.pdb
+C:\Users\Hrishikesh\Desktop\Projects\virtualized-PID\virtualized-PID\obj\Debug\virtualized-PID.csprojAssemblyReference.cache
+C:\Users\Hrishikesh\Desktop\Projects\virtualized-PID\virtualized-PID\obj\Debug\virtualized-PID.csproj.CoreCompileInputs.cache
+C:\Users\Hrishikesh\Desktop\Projects\virtualized-PID\virtualized-PID\obj\Debug\virtualized-PID.exe
+C:\Users\Hrishikesh\Desktop\Projects\virtualized-PID\virtualized-PID\obj\Debug\virtualized-PID.pdb
